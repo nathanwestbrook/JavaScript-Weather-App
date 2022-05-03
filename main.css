@@ -97,3 +97,13 @@ main {
     font-weight: 500;
     text-shadow: 0px 3px rgba(0, 0, 0, 0.4);
 }
+
+.credit {
+    color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+    align-items: center;
+    bottom: 0;
+    left: 35%;
+    height: 2.5rem;
+    position: absolute;
+}
